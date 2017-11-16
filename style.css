@@ -1,0 +1,103 @@
+body {
+    font-family: sans-serif;
+}
+.banner {
+    height: 130px;
+    display: flex;
+    font-family: sans-serif;
+}
+.banner-img {
+    margin-left: 20px;
+    border: 0
+}
+.a {
+    font-size: 40px;
+    color: #515151;
+    text-decoration: none;
+    margin-right: 20px;
+    margin: 0 auto
+}
+.a:hover {
+    background: #a70000;
+    font-size: 40px;
+    color: white;
+    text-decoration: none;
+    margin-right: 20px;
+    margin: 0 auto;
+    transition: 0.2 s;
+}
+.adv {
+    width: 700px;
+    height: 500px;
+    
+}
+.adv-img {
+    margin-top: 50px;
+    margin-left: 100px;
+}
+.news {
+    width: 500px;
+    height: 500px;
+    margin-left: 30px;
+    margin-top: 50px;
+}
+.main {
+    display: flex
+}
+.news-h1 {
+    color: #a71932;
+    text-align: center;
+    font-family: 32px;
+}
+.news1-img {
+    width: 360px;
+    height: 360px;
+}
+.news1-p {
+    font-size: 16px;
+    color: #a71932;
+}
+.flex {
+    display: flex
+}
+.text {
+    font-size: 13px;
+    color: #a71932;
+    margin-left: 200px
+}
+.margin {
+    margin-left: auto
+}
+.mrg-p {
+    margin-top: 30px
+}
+.food {
+    height: 200px;
+    display: flex;
+}
+.column {
+    width: 205px;
+    text-align: center;
+    color: #a71932;
+    margin-top: 40px;
+    margin-left: 60px;
+}
+.career{
+    text-align: center;
+    margin-top: 30px;
+}
+.h1-coupons {
+    font-family: sans-serif;
+    font-size: 53px;
+    padding-top: 20px;
+    color: #c21f3b;
+    padding: 0;
+    margin: 0
+}
+.p-coupons {
+    font-family: Arial,sans-serif;
+    font-size: 20px;
+    color: #404040;
+    margin: 0;
+    padding: 0;
+}
